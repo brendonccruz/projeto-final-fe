@@ -1,8 +1,9 @@
-PROJETO FINAL - DESENVOLVIMENTO FRONT-END I
-Tema: Portfólio Pessoal
-Autor: Brendon Araujo da Cruz
-Curso: Análise e Desenvolvimento de Sistemas
-Turma: 2025/2
+# PROJETO FINAL - DESENVOLVIMENTO FRONT-END I
+### Tema: Portfólio Pessoal
+### Autor: Brendon Araujo da Cruz
+### Curso: Análise e Desenvolvimento de Sistemas
+### Instituição: Instituto Federal do Espírito Santo (IFES)
+### Turma: 2025/2
 
 
 # DESCRIÇÃO
