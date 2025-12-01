@@ -282,3 +282,12 @@ body {
         padding-top: 240px !important; 
     }
 }
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-primary: #0D0D0D;
+        --accent-color: #FC4C00;
+        --text-color: #FC4C00;
+        --destaque-color: #fff;
+    }
+}
