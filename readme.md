@@ -18,13 +18,13 @@ identidade visual única focada em apresentar o perfil profissional, formação 
   ├── skills.html <br> 
   ├── contato.html      
   ├── README.txt <br>
-  │<br>
+  ├<br>
   ├── /css <br>
-  │    └── style.css <br>
-  │<br>
+  ├    └── style.css <br>
+  ├<br>
   ├── /js <br>
-  │    └── main.js <br>
-  │<br>
+  ├    └── main.js <br>
+  ├<br>
   └── /img
 
 
